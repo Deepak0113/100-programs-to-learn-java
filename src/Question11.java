@@ -4,7 +4,7 @@ public class Question11 {
 
     static int[][] transpose(int[][] arr){
         int row = arr.length, col = arr[0].length;
-        int[][] transposeArr = new int[row][col];
+        int[][] transposeArr = new int[col][row];
 
         for(int i=0; i<row; i++){
             for(int j=0; j<col; j++){
