@@ -1,3 +1,5 @@
+//65.Java Program to find the frequency of each element in the array
+
 import java.util.HashMap;
 public class Question65 {
     static void frequencyOfElements(int[] arr){

@@ -1,3 +1,5 @@
+//73.Java Program to add two matrices
+
 public class Question73 {
     static int[][] addMatrix(int[][] mat1, int[][] mat2){
         int row = mat1.length;

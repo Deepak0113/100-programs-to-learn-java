@@ -1,3 +1,5 @@
+//72.Java Program to remove Duplicate Element in an Array
+
 import java.util.*;
 
 public class Question72 {

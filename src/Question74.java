@@ -1,3 +1,5 @@
+//74.Java Program to find the product of two matrices
+
 public class Question74 {
     static int[][] productMatix(int[][] mat1, int[][] mat2){
         int row1 = mat1.length, col1 = mat1[0].length;

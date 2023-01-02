@@ -1,3 +1,5 @@
+//68.Java Program to print the sum of all the items of the array
+
 import java.util.Arrays;
 
 public class Question68 {

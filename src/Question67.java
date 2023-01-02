@@ -1,3 +1,5 @@
+//67.Java Program to print the duplicate elements of an array
+
 import java.util.HashMap;
 
 public class Question67 {

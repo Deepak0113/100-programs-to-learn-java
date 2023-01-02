@@ -1,3 +1,6 @@
+//62.Java Program to print the elements of an array present on even position and odd
+//        positions
+
 public class Question62 {
     static void printEvenOddPosition(int[] arr){
         System.out.print("Odd Position: ");

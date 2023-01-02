@@ -1,5 +1,6 @@
+//63.Java Program to print the largest element and smallest element in an array
+
 import java.util.Arrays;
-import java.util.stream.IntStream;
 
 public class Question63 {
     static void maxAndMinAlt(int[] arr){

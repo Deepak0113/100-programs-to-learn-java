@@ -1,3 +1,5 @@
+//76.Java Program to display the transpose matrix
+
 import java.util.Arrays;
 
 public class Question76 {

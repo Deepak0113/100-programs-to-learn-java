@@ -1,3 +1,5 @@
+//71.Java Program to find the 2nd Smallest Number in an Array
+
 import java.util.Arrays;
 
 public class Question71 {
